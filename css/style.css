@@ -1,0 +1,52 @@
+body{
+    background-color: #ecf0f1;
+}
+.mapdiv{
+    width: 25%;
+    margin:auto;
+}
+
+.mapdiv path{
+    fill:#34495e;
+    stroke: white;
+    stroke-width:px ;
+    
+}
+.mapdiv path:hover{
+    fill: rgb(95, 226, 43);
+}
+a{
+    font-size: 19px;
+    text-decoration: none;
+    margin-top: -10px;
+}
+img{
+    
+    width: 33%;
+    height: 170px;
+    border-radius: 50%;
+    }
+
+
+
+
+    #box{
+        margin-top:100px;
+    }
+    .card{
+        height: 90vh;
+        margin-top: 20px;
+
+    }
+
+    
+    P{
+        margin-top: 30px;
+    }
+
+    
+    .farmi{
+        margin-top:10%;
+    }
+
+
